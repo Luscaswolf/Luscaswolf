@@ -3,7 +3,6 @@
 - 🔭 Trabalho com front-end mas busco me tornar fullstack
 - 🌱 Estou aprendendo java
 - 😄 Pronomes ele/dele
-- 🍜 Eu gosto de lamem
 - 🔥 Quero me tornar um grande programador
 
  <div>
