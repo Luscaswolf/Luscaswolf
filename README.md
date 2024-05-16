@@ -3,6 +3,8 @@
 - 💻 Skills **Desenvolvimento Back-end, Data Science, Desenvolvimento Front-end**
 - 🌱 I'm currently improving my backend skills
 - 🔭 I’m currently looking for a job
+  
+  <br>
   <div align="center">
   <a href="https://github.com/Luscaswolf">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Luscaswolf&theme=tokyonight")/>
