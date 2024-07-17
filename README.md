@@ -1,7 +1,7 @@
 ### Hey! Sou Lucas Silva ou Lucas Wolf
 
-- 💻 Skills **Back-end Development, Data Science, Front-end Development**
-- 🌱 I'm currently improving my backend skills
+- 💻 **Data Science**
+- 🌱 I'm currently improving my NLP and LLM Skills
 - 🔭 I’m currently looking for a job
   
   <br>
