@@ -2,7 +2,7 @@
 
 - 💻 **Data Science**
 - 🌱 I'm currently improving my NLP and LLM Skills
-- 🔭 I’m currently looking for a job
+- 🔭 I’m reaing "Data Science Essentials For Dummies"
   
   <br>
   <div align="center">
